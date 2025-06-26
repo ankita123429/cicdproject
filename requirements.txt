@@ -8,4 +8,6 @@ xgboost
 dill
 xgboost
 catboost
+flask
+pickle
 #-e .
